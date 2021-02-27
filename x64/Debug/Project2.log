@@ -1,0 +1,8 @@
+﻿  dbLib.cpp
+D:\BT\191\dsa\pa2\Project2\dbLib.cpp(28,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BT\191\dsa\pa2\Project2\dbLib.cpp(37,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  processData.cpp
+D:\BT\191\dsa\pa2\Project2\processData.cpp(291,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Project2.vcxproj -> D:\BT\191\dsa\pa2\Project2\x64\Debug\Project2.exe

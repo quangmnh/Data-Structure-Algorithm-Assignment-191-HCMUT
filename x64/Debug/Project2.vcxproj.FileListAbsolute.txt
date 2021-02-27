@@ -1,0 +1,2 @@
+D:\BT\191\dsa\pa2\Project2\x64\Debug\Project2.exe
+D:\BT\191\dsa\pa2\Project2\x64\Debug\Project2.pdb
